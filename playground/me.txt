@@ -1,5 +1,0 @@
-{{#user}
-Name: Umang Ladha
-Skills: HTML, CSS, JS
-Email: umangladha02@gmail.com
-{{/user}}
